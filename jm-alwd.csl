@@ -12,7 +12,7 @@ href="http://juris-m.github.io/styles/jm-alwd" rel="self"/>
     </author>
     <category citation-format="note"/>
     <category field="law"/>
-    <updated>2022-03-03T16:08:45+01:00</updated>
+    <updated>2022-03-09T13:08:23+01:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale>
@@ -33,12 +33,12 @@ href="http://juris-m.github.io/styles/jm-alwd" rel="self"/>
       <term name="number" form="short">n°</term>
       <term name="and" form="symbol">&amp;</term>
       <term name="article">article</term>
-      <term name="director">director</term>
-      <term form="short" name="director">dir.</term>
       <term form="short" name="article">
         <single>art.</single>
         <multiple>arts.</multiple>
       </term>
+      <term name="director">director</term>
+      <term form="short" name="director">dir.</term>
       <term name="rule">Rule</term>
       <term name="rule" form="short">r.</term>
       <term name="title">title</term>
@@ -86,7 +86,10 @@ href="http://juris-m.github.io/styles/jm-alwd" rel="self"/>
         <multiple>&#167;&#167;</multiple>
       </term>
       <term form="short" name="sub verbo">s.v.</term>
-      <term form="short" name="verse">vrs.</term>
+      <term form="short" name="verse">
+        <single>rec.</single>
+        <multiple>recs.</multiple>
+      </term>
       <term form="short" name="volume">vol.</term>
       <term form="short" name="edition">
         <single>ed.</single>
